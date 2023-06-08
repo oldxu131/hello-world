@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/oldxu131/hello-world.git
     targetRevision: HEAD
-    path: dev
+    path: master
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
